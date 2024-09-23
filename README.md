@@ -1,7 +1,7 @@
 # image_processing
 
 Description. 
-The package image_processing_package is used to:
+The package image_processing-Desafio_DIO_2024 is used to:
 	Processing:
  		- Histogram matching
    		- Structural similarity
@@ -15,21 +15,14 @@ The package image_processing_package is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_package
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing-Desafio_DIO_2024
 
 ```bash
-pip install image_processing_package
-```
-
-## Usage
-
-```python
-from image_processing_package.processing import combination
-combination.my_function()
+pip install image_processing-Desafio_DIO_2024
 ```
 
 ## Author
-My_name
+Gutembergue
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
