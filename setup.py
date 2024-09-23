@@ -14,7 +14,7 @@ setup(
     description="Este programa tem como propósito renderizar uma imagem com base no histograma de uma imagem referência.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/gutembergue-martins/image-processing-package.git"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
