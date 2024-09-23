@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing_package",
+    name="image_processing",
     version="0.0.1",
     author="Gutembergue",
     author_email="gutemberguemartins@gmail.com",
-    description="Este programa tem como propósito renderizar uma imagem com base no histograma de uma imagem referência.",
+    description="Image Processing Package using skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/gutembergue-martins/image-processing-package.git"
