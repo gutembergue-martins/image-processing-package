@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
+    name="guto-image_processing",
     version="0.0.1",
     author="Gutembergue",
     author_email="gutemberguemartins@gmail.com",
