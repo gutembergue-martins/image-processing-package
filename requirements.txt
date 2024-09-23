@@ -1,11 +1,4 @@
-setup(
-    ...
-    install_requires=[
-        "scikit-image==0.16.2",
-        "numpy>=1.18.0",
-        "matplotlib",
-        # Adicione outras dependências conforme necessário
-    ],
-    ...
-)
+scikit-image==0.16.2
+numpy>=1.18.0
+matplotlib
 
